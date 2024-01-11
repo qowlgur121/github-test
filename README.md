@@ -1,2 +1,2 @@
-# github_test
+# github-test
 test
